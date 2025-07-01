@@ -35,3 +35,10 @@ Use Map filters to present data according to the Continent to the Regional Manag
 ## Sample Dashboards
 
 <img src="Dash/Dashboard pic.png" width="1000"/>&nbsp;
+
+<img src="Dash/Pictures.png" width="1000"/>&nbsp;
+
+<img src="Dash/Schema pic.png" width="1000"/>&nbsp;
+
+
+
