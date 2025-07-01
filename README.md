@@ -34,4 +34,4 @@ Use Map filters to present data according to the Continent to the Regional Manag
 
 ## Sample Dashboards
 
-<img src="C:\Users\hp\OneDrive\Pictures\Screenshots\Dashboard pic.png"/>&nbsp;
+<img src="Dash/Dashboard pic.png" width="1000"/>&nbsp;
