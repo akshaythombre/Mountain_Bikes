@@ -33,3 +33,5 @@ Use Map filters to present data according to the Continent to the Regional Manag
 - Created Measure Table and used some DAX formula like SUMX and DIVIDE to find Total Order count etc.
 
 ## Sample Dashboards
+
+<img src="C:\Users\hp\OneDrive\Pictures\Screenshots\Dashboard pic.png"/>&nbsp;
